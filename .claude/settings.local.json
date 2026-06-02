@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/ronynelson/Downloads/BookSwap/assets)",
+      "Bash(curl -s -o icon.png \"https://via.placeholder.com/1024x1024/1a1a2e/e94560?text=BS\")",
+      "Bash(curl -s -o splash.png \"https://via.placeholder.com/1242x2436/1a1a2e/e94560?text=BookSwap\")",
+      "Bash(curl -s -o favicon.png \"https://via.placeholder.com/32x32/1a1a2e/e94560?text=B\")",
+      "Bash(python3 -c ' *)",
+      "Bash(xargs sed -i '' -e 's/#0f0f23/#051d2e/g' -e 's/#1a1a2e/#072a47/g' -e 's/#2d2d4e/#0e4272/g' -e 's/#666699/#5a9fd4/g' -e 's/#333366/#0a3055/g' -e 's/#9999bb/#7ab8d9/g')"
+    ]
+  }
+}
