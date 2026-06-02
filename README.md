@@ -2,7 +2,7 @@
 
 **Disciplina:** Programação para Dispositivos Móveis em Android  
 **Professor:** Julio Cartier  
-**Instituição:** Univille  
+**Instituição:** Estácio  
 
 ---
 
